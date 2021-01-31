@@ -1,0 +1,1 @@
+This folder contains the codes, and results for the trading strategy for Gold. Gold SPDR Shares data (https://finance.yahoo.com/quote/GLD/) was used for the period of 01-01-2011 to 12-31-2020 (dd-mm-yyyy)
