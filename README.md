@@ -1,6 +1,6 @@
-# WQU-Capstone-Project-2021
+# Hurst Exponent Based Trading Strategy
 
-The project is part of Masters in WorldQuant University. It covers a short term trading strategy using Hurst exponent to segment the data and then built trading models over that
+The Project covers a short term trading strategy using Hurst exponent to segment the data and then built trading models over that
 
 
 The strategy was explored for four different assets:
