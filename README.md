@@ -1,6 +1,6 @@
 # Hurst Exponent Based Trading Strategy
 
-The Project covers a short term trading strategy using Hurst exponent to segment the data and then built trading models over that
+The Project covers a short term trading strategy using Hurst exponent to segment the data and then built trading models over that. Detailed paper can be found here: http://ssrn.com/abstract=3824032 
 
 
 The strategy was explored for four different assets:
